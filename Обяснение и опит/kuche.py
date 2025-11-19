@@ -1,0 +1,3 @@
+def lae():
+    print("Bau")
+
